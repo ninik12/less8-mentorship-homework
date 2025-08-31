@@ -1,0 +1,369 @@
+.header-wraper {
+    width: 100%;
+    height: 158px;
+    background-color: #191A19;
+    padding: 49px 113px;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-space-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-main-container {
+    width: 1503px;
+    height: 70px;
+    margin: 0 auto;
+
+}
+
+.ul-parent {
+    width: 505px;
+    height: 65px;
+}
+
+.nav-li {
+    color: white;
+}
+
+.header-div2 {
+    width: 348px;
+    height: 66px;
+}
+
+.icon {
+    width: 15px;
+    height: 7.5px;
+    margin-left: 10px;
+}
+
+.white {
+    color: #FFFFFF;
+}
+
+.contuct-us {
+    width: 194px;
+    height: 66px;
+    background-color: #FF7420;
+    border-radius: 15px;
+}
+
+.icon2 {
+    margin-left: 10px;
+}
+
+.poppins-medium {
+    font-size: 24px;
+    font-family: 'Poppins-medium';
+}
+
+/* section N1 */
+.section1 {
+    width: 100%;
+    height: 726px;
+    background-image: url(../images/photo_construction-workers-surveying-site1@3x.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+}
+
+.section1-main-div {
+    width: 607px;
+    height: 418px;
+    position: absolute;
+    top: 154px;
+    left: 102px;
+}
+
+.our-services {
+    width: 478px;
+    height: 66px;
+    margin-top: 75px;
+}
+
+.main-title {
+    font-size: 64px;
+}
+
+.span-future {
+    color: #FF7420;
+}
+
+.poppins-semibold {
+    font-family: 'Poppins-SemiBold';
+}
+
+.first-p {
+    width: 607px;
+    height: 80px;
+    font-size: 20px;
+    font-family: 'Poppins-medium';
+    margin-top: 50px;
+    line-height: 100%;
+}
+
+.services-conteiner1 {
+    width: 246px;
+    height: 66px;
+    background-color: #FF7420;
+    border-radius: 15px;
+
+}
+
+.services-conteiner2 {
+    width: 208px;
+    height: 66px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+/* section N2 */
+.section2 {
+    width: 100%;
+    height: 936px;
+    background-color: #FF7420;
+    padding-top: 61px;
+    position: relative;
+}
+
+.section2-header {
+    width: 1503px;
+    height: 96px;
+    margin: 0 auto;
+}
+
+.section2-title-conteiner {
+    width: 539px;
+    height: 96px;
+}
+
+.featured {
+    font-size: 64px;
+}
+
+.ul-parent2 {
+    width: 770px;
+    height: 50px;
+}
+
+.section2-nav-li {
+    font-size: 20px;
+    color: white;
+    font-family: 'Poppins-SemiBold';
+}
+
+.section2-pictures-conteiner {
+    width: 1493px;
+    height: 613px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.section2-picture {
+    width: 485.24px;
+    height: 613px;
+}
+
+.poppins-medium-20px {
+    font-family: 'Poppins-medium';
+    font-size: 20px;
+}
+
+.picture-1 {
+    background-image: url(../images/donny-jiang.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.picture-2 {
+    background-image: url(../images/daniele-buso.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.picture-3 {
+    background-image: url(../images/jack.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.relative {
+    position: relative;
+}
+
+.position {
+    width: 290px;
+    height: 70px;
+    position: absolute;
+    top: 522px;
+    left: 105px;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.explore-all {
+    width: 251px;
+    height: 50px;
+    position: absolute;
+    top: 841px;
+    left: 1251px;
+    gap: 10px;
+}
+
+.poppins-semibold-20px {
+    font-size: 20px;
+    font-family: 'Poppins-SemiBold';
+}
+
+/* section N3 */
+.section3-wraper{
+    width: 100%;
+    background-color: #000;
+    padding-top: 52px;
+}
+
+.section3-p-container{
+    width: 1067px;
+    height: 165px;
+    flex-direction: column;
+    text-align: center;
+    margin: 0 auto;
+    gap: 15px;
+}
+.section3-title{
+    color: #FF7420;
+    font-size: 28px;
+    font-family: 'Poppins-SemiBold';
+
+}
+.regular-20px{
+    font-family: 'Poppins-Regular';
+    font-size: 20px;
+
+}
+.section3-author{
+    font-size: 16px;
+    font-family: 'Poppins-medium';
+}
+.section3-p{
+    margin-top: 18px;
+}
+.section3-main-title{
+    width: 1450px;
+    height: 96px;
+    margin: 0 auto;
+    font-size: 64px;
+    font-family: 'Poppins-SemiBold';
+    text-align: center;
+    margin: 120px 0;
+}
+/* form */
+.form-contact-conteiner{
+    width: 1503px;
+    height: 661px;
+
+}
+.form-conteiner{
+    width: 963px;
+    height: 661px;
+    background-color: #FF7420;
+    padding: 42px 0 0 58px;
+    border-radius: 15px;
+}
+
+.form-p{
+    margin: 24px 0 18px 0;
+
+}
+.form-name-email{
+    width: 856px;
+    height: 76px;
+    margin-bottom: 18px;
+}
+.input-conteiner{
+    width: 419px;
+    height: 76px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    padding-left: 65px;
+}
+.relative{
+    position: relative;
+}
+.vector-1{
+    position: absolute;
+    top: 35px;
+    left: 341px;
+}
+.textarea{
+    width: 856px;
+    height: 148px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    padding: 23px 0 0 64px;
+    resize: none;
+}
+.submit-button{
+    width: 856px;
+    height: 76px;
+    background-color: #191A19;
+    border-radius: 15px;
+    border: none;
+    margin-top: 24px;    
+}
+.contact-conteiner{
+    width: 499px;
+    height: 661px;
+    background-color: #FF7420;
+    border-radius: 15px;
+    padding: 42px 0 0 64px;
+}
+.contact-container-1{
+    width: 355px;
+    height: 378px;
+    margin-top: 38px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.contact-containre-1-child{
+    width: 355px;
+    height: 48px;
+    margin-bottom: 40px;
+
+}
+.poppins-light-16px{
+    font-family: 'Poppins-Light';
+    font-size: 16px;
+}
+.contact-container-p{
+    margin-top: 15px;
+    line-height: 100%;
+}
+.submit-button-2{
+    width: 384px;
+    height: 76px;
+    background-color: #191A19;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+}
+.footer-wraper{
+    width: 100%;
+    height: 359px;
+    background-color: #191A19;
+}
